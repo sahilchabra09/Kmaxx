@@ -17,7 +17,7 @@ const AboutUs = () => {
             </p>
             <div className="absolute -top-8 right-8 w-24 h-24 md:w-32 md:h-32 border-4 border-white overflow-hidden">
               <img
-                src="/doctor.png"
+                src="/D2.jpg"
                 alt="Doctors Group"
                 className="w-full h-full object-cover"
               />
@@ -29,35 +29,35 @@ const AboutUs = () => {
         <div className="grid grid-cols-3 grid-rows-2 gap-4">
           <div className="row-span-2">
             <img
-              src="/doctor.png"
+              src="/4.jpg"
               alt="Baby Checkup"
               className="w-full h-full object-cover rounded-lg"
             />
           </div>
           <div>
             <img
-              src="/doctor.png"
+              src="/1.jpg"
               alt="Blood Pressure Check"
               className="w-full h-full object-cover rounded-lg"
             />
           </div>
           <div>
             <img
-              src="/doctor.png"
+              src="/2.jpg"
               alt="Pregnancy Consultation"
               className="w-full h-full object-cover rounded-lg"
             />
           </div>
           <div>
             <img
-              src="/doctor.png"
+              src="/3.jpg"
               alt="Kids Therapy"
               className="w-full h-full object-cover rounded-lg"
             />
           </div>
           <div>
             <img
-              src="/doctor.png"
+              src="/5.jpg"
               alt="Maternity Care"
               className="w-full h-full object-cover rounded-lg"
             />

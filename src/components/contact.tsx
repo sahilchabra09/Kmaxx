@@ -7,7 +7,7 @@ import { Textarea } from "@/components/ui/textarea"
 
 export function Contact() {
   return (
-    <section className="relative py-20 px-6 bg-white overflow-hidden">
+    <section className="relative py-20 px-6 bg-white overflow-hidden ">
       <div className="container mx-auto">
         <div className="flex flex-col md:flex-row gap-12">
           {/* Contact Form */}

@@ -13,7 +13,7 @@ export function Footer() {
           <div className="space-y-6">
             <Link href="/" className="inline-block">
               <Image
-                src="/placeholder.svg"
+                src="/logo.png"
                 alt="KMAXX American Hospital"
                 width={180}
                 height={50}

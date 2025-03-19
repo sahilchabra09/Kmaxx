@@ -14,28 +14,28 @@ export function Doctors() {
       role: "Specialist",
       description: "Dedicated pediatrician providing expert care for children's health and well-being.",
       image:
-        "/doctor.png",
+        "/D1.jpg",
     },
     {
       name: "Dr Ashna Kumar",
       role: "Specialist",
       description: "Dedicated pediatrician providing expert care for children's health and well-being.",
       image:
-        "/doctor.png",
+        "/D2.jpg",
     },
     {
       name: "Dr Keshav",
       role: "Specialist",
       description: "Dedicated pediatrician providing expert care for children's health and well-being.",
       image:
-        "/doctor.png",
+        "/D3.jpg",
     },
     {
       name: "Dr Bharat",
       role: "Specialist",
       description: "Dedicated pediatrician providing expert care for children's health and well-being.",
       image:
-        "/doctor.png",
+        "/D4.jpg",
     },
   ]
 
