@@ -17,7 +17,7 @@ const AboutUs = () => {
             </p>
             <div className="absolute -top-8 right-8 w-24 h-24 md:w-32 md:h-32 border-4 border-white overflow-hidden">
               <img
-                src="/static/images/D2.jpg"
+                src="/static/images/D2.webp"
                 alt="Doctors Group"
                 className="w-full h-full object-cover"
               />
