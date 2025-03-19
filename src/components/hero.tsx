@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 
 export function Hero() {
   return (
-    <section className="relative h-[600px] bg-gray-900" style={{ backgroundImage: 'url(/hero-bg.webp)', backgroundSize: 'cover', backgroundPosition: 'center' }}>
+    <section className="relative h-[600px] bg-gray-900" style={{ backgroundImage: 'url(static/images/hero-bg.webp)', backgroundSize: 'cover', backgroundPosition: 'center' }}>
       <div className="container mx-auto px-6 h-full flex items-center">
         <div className="w-1/2 text-white">
           <h1 className="text-7xl font-bold mb-6">
@@ -22,7 +22,7 @@ export function Hero() {
         <div className="w-1/2">
           <div className="rounded-3xl overflow-hidden">
             <Image
-              src="/hospital_building.jpg"
+              src="/static/images/hospital_building.jpg"
               alt="Hospital Building"
               width={600} // Adjust width as needed
               height={400} // Adjust height as needed
