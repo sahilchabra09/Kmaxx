@@ -61,7 +61,7 @@ export function Header() {
       <nav className="bg-white py-4 px-6 flex items-center justify-between shadow-sm relative">
         <Link href="/" className="flex items-center" onClick={closeMenu}>
           <Image 
-            src="/logo.png" 
+            src={"/static/images/logo.png" }
             alt="KMAXX American Hospital" 
             width={250} 
             height={80} 

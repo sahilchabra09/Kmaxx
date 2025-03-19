@@ -20,7 +20,7 @@ export function News() {
             <div className="bg-white rounded-lg p-6">
               <div className="relative h-[400px] mb-4">
                 <Image
-                  src="/static/images/news2.jpg"
+                  src={"/static/images/news2.jpg"}
                   alt="News Article"
                   fill
                   className="object-cover rounded-lg"
