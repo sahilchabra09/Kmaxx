@@ -13,7 +13,7 @@ export const items = [
     },
     {
       id: "3",
-      url: "/static/images/G3.jpg",
+      url: "/static/images/G3.webp",
       title: "Consultation Room",
       description: "State-of-the-art consultation rooms equipped with the latest medical technology.",
     },
